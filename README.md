@@ -2,8 +2,8 @@
 
 A high-performance system for analyzing the **top 10 most frequent words** in a large dataset using different execution models:
 - Single-threaded (Naive)
-- Multiprocessing
-- Multithreading
+- Multiprocessing (mp)
+- Multithreading (mt)
 
 The project evaluates performance, scalability, and efficiency using real-world data.
 
